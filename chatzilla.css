@@ -1,0 +1,54 @@
+body{
+    padding-top: 60px;
+}
+
+
+/*
+h1{
+    font-size: 2em;
+    font-weight: bold;
+    font-style: italic;
+    text-align: center;
+}
+
+#chatTitle{
+    color: red;
+    font-size: 4em;
+}
+
+.username{
+    color: #2793e2;
+}
+
+button{
+    font-family: fantasy;
+    width: 10%;
+    
+}
+
+#userChatTextarea{
+    width: 50%;
+}
+
+#userChatTextarea, #chatHistory
+{
+    font-family: monospace;
+    font-size: 14px;
+}
+
+#userChatTextarea, #sendChat{
+    height: 5em;
+    margin: 0px;
+    vertical-align: top;
+    padding: 0em;
+    border: 1px pink solid;
+}
+
+#chatHistory{
+    margin-bottom: 2em;
+    padding: 0em;
+    margin-top: 2em;
+    
+}
+
+*/
